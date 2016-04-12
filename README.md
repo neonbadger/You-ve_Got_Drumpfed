@@ -4,6 +4,10 @@
 
 **You've Got Drumpfed** is a Chrome extension that replaces instances of "Trump" with "Drumpf" -- my take on [Last Week Tonight](https://www.youtube.com/watch?v=DnpO_RTSNmQ) crew's [Drumpfinator](http://drumpfinator.com/), available for download [here](https://chrome.google.com/webstore/detail/drumpfinator/hcimhbfpiofdihhdnofbdlhjcmjopilp?hl=en).
 
+Here is what happens when Wikipedia got Drumpfed.
+
+![](Drumpfed_wiki.png)
+
 &#MakeDonaldDrumpfAgain
 
 ####HOW IT WORKS
