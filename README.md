@@ -4,6 +4,8 @@
 
 **You've Got Drumpfed** is a Chrome extension that replaces instances of "Trump" with "Drumpf" -- my take on [Last Week Tonight](https://www.youtube.com/watch?v=DnpO_RTSNmQ) crew's [Drumpfinator](http://drumpfinator.com/), available for download [here](https://chrome.google.com/webstore/detail/drumpfinator/hcimhbfpiofdihhdnofbdlhjcmjopilp?hl=en).
 
+&#MakeDonaldDrumpfAgain
+
 ####HOW IT WORKS
 
 - [manifest.json](manifest.json) is a file that contains the meta data of the Chrome extension.
