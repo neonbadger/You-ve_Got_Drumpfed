@@ -1,4 +1,4 @@
-# You've Got Drumpfed: Chrome Extension to Make Donald Drumpf Again #
+# You've Got Drumpfed: a Chrome Extension to #MakeDonaldDrumpfAgain #
 
 ####ABOUT
 
