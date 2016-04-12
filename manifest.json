@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "You've Got Drumpfed!",
+    "version": "1.0",
+    "description": "Replace instances of 'Trump' with 'Drumpf', inspired by Last Week Tonight.",
+    "content_scripts":
+    [
+        {
+            "matches": ["*://*/*"],
+            "js": ["content_script.js"],
+            "runt_at": "document_end"
+        }
+    ]
+
+}
