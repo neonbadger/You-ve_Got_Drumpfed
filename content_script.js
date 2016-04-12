@@ -29,12 +29,12 @@ function handleText(textNode)
 {
     var text = textNode.nodeValue;
 
-    text = text.replace(/TRUMP/g, 'DRUMPF');
-    text = text.replace(/Trump/g, 'Drumpf');
-    text = text.replace(/trump/g, 'drumpf');
-    text = text.replace(/Make America Great Again/g, 'Make America Drumpf Again');
-    text = text.replace(/make America great again/g, 'make America Drumpf again');
-    text = text.replace(/MakeAmericaGreatAgain/g, 'MakeAmericaDrumpfAgain');
+    text = text.replace(/TRUMP/gi, 'DRUMPF');
+    text = text.replace(/Trump/gi, 'Drumpf');
+    text = text.replace(/trump/gi, 'drumpf');
+    text = text.replace(/Make America Great Again/gi, 'Make America Drumpf Again');
+    text = text.replace(/make America great again/gi, 'make America Drumpf again');
+    text = text.replace(/MakeAmericaGreatAgain/gi, 'MakeAmericaDrumpfAgain');
 
     textNode.nodeValue = text;
 }
